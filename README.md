@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 [![ZelKnow's github stats](https://github-readme-stats.vercel.app/api?username=ZelKnow)](https://github.com/ZelKnow&show_icons=true)
 
 <!--START_SECTION:waka-->
+
+```text
+Go            8 hrs 38 mins   █████████████████▓░░░░░░░   70.40 %
+C             3 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   28.22 %
+Objective-C   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+C++           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Kconfig       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
