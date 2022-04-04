@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ZelKnow's github stats](https://github-readme-stats.vercel.app/api?username=ZelKnow)](https://github.com/ZelKnow)
+[![ZelKnow's github stats](https://github-readme-stats.vercel.app/api?username=ZelKnow)](https://github.com/ZelKnow&show_icons=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
