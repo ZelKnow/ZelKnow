@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -   🎮: PS5 / Steam / Hearthstone(AFK)
 ---
 
-📊 [**Weekly development breakdown**](https://github.com/muety/wakapi)
+📊 [**Weekly development breakdown**](https://github.com/athul/waka-readme)
 
 <!--START_SECTION:waka-->
 
