@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <h2 align="center">👋 Hello! I'm ZelKnow.</h2>
 <p align="center">
-  <a href="https://blog.zelknow.com">Blog</a> •
-  <a href="https://twitter.com/zelknow">Twitter</a>
+  <a href="https://twitter.com/zelknow"><img border="0" src="https://shields.io/twitter/follow/zelknow?label=Follow&style=for-the-badge&logo=twitter" /></a>
+  <a href="https://leetcode-cn.com/u/zelknow/"><img border="0" src="https://fc.dianhsu.top/lc?user=zelknow&loc=cn&req=rating" /></a>
 </p>
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ZelKnow&theme=dark&show_icons=true">](https://metrics.lecoq.io/zelknow#gh-dark-mode-only)
