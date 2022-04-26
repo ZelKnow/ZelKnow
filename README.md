@@ -37,12 +37,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go           9 hrs 32 mins   ████████████▓░░░░░░░░░░░░   50.24 %
-C            9 hrs 7 mins    ████████████░░░░░░░░░░░░░   47.97 %
-Markdown     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Makefile     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Perl         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Emacs Lisp   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Go           9 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.65 %
+C            7 hrs 41 mins   ██████████░░░░░░░░░░░░░░░   39.48 %
+Markdown     2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
