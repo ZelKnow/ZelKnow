@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go         7 hrs 47 mins   ████████████▓░░░░░░░░░░░░   51.21 %
-Markdown   5 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   39.40 %
-C          1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go         7 hrs 26 mins   ████████████████▒░░░░░░░░   64.85 %
+Markdown   2 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
+C          1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
