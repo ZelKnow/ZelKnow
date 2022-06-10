@@ -37,11 +37,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go            16 hrs 22 mins  ████████████████████████▓   98.97 %
-C             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Go            13 hrs 49 mins  ████████████████████░░░░░   80.35 %
+C             3 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
+Objective-C   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
