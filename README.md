@@ -37,10 +37,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go            16 hrs 23 mins  ███████████████████▒░░░░░   77.16 %
-C             3 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-Python        41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Other         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Go         16 hrs 4 mins   ██████████████████████▒░░   89.75 %
+Python     41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Other      33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
