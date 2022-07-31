@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="mailto:zelknow@outlook.com"><img border="0" src="https://shields.io/badge/email-orange?style=for-the-badge&logo=microsoftoutlook" /></a>
   <a href="https://twitter.com/zelknow"><img border="0" src="https://shields.io/twitter/follow/zelknow?label=Follow&style=for-the-badge&logo=twitter&color=blue" /></a>
-  <a href="https://leetcode-cn.com/u/zelknow/"><img border="0" src="https://fc.dianhsu.top/lc?user=zelknow&loc=cn&req=rating" /></a>
 </p>
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ZelKnow&theme=dark&show_icons=true">](https://metrics.lecoq.io/zelknow#gh-dark-mode-only)
