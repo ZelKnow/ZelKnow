@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 hrs 30 mins   ███████████████▒░░░░░░░░░   60.71 %
-Go       2 hrs 14 mins   █████████▓░░░░░░░░░░░░░░░   38.77 %
-Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python     3 hrs 30 mins   ████████████████▒░░░░░░░░   65.08 %
+Go         1 hr 20 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
+C++        31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
