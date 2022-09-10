@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -   👨: he/him
 -   ⚒️: C / C++ / Python / Go
 -   🧰: linux / VS Code
+-   🤝: Backend engineer intern at *Bytedance*
 -   🏫: Studying system security in *Peking University*
 -   📖: Currently learning [Go](https://go.dev/) and [linux](https://www.kernel.org/)
--   🤝: Looking for a backend or OS internship
 -   🎮: PS5 / Steam / Hearthstone(AFK)
 ---
 
