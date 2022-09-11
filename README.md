@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ZelKnow&theme=dark&show_icons=true">](https://metrics.lecoq.io/zelknow#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ZelKnow&show_icons=true">](https://metrics.lecoq.io/zelknow#gh-light-mode-only)
 
--   👨: he / him
+-   👨: He / Him
 -   ⚒️: C / C++ / Python / Go
--   🧰: linux / VS Code
+-   🧰: Linux / VS Code
 -   🤝: Backend engineer intern at *Bytedance*
--   🏫: Studying system security in *Peking University*
+-   🏫: Studying system security at *Peking University*
 -   📖: Currently learning [Go](https://go.dev/) and [Linux](https://www.kernel.org/)
 -   🎮: PS5 / Steam / Hearthstone(AFK)
 ---
