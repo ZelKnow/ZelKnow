@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">👋 Hello! I'm ZelKnow.</h2>
 <p align="center">
-  <a href="mailto:zelknow@outlook.com"><img border="0" src="https://shields.io/badge/email-orange?style=for-the-badge&logo=microsoftoutlook" /></a>
+  <a href="mailto:zelknow@163.com"><img border="0" src="https://shields.io/badge/email-orange?style=for-the-badge&logo=microsoftoutlook" /></a>
   <a href="https://twitter.com/zelknow"><img border="0" src="https://shields.io/twitter/follow/zelknow?label=Follow&style=for-the-badge&logo=twitter&color=blue" /></a>
 </p>
 
