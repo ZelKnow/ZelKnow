@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C                  3 hrs 57 mins   █████████████████▒░░░░░░░   69.26 %
-Go                 1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
-Python             19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Perl               7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-reStructuredText   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Objective-C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C                  2 hrs 53 mins   ███████████████▓░░░░░░░░░   62.21 %
+Go                 1 hr 15 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
+Python             19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Perl               7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+reStructuredText   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Objective-C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
