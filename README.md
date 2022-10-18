@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C             5 hrs 45 mins   █████████████░░░░░░░░░░░░   51.96 %
-Go            3 hrs 39 mins   ████████▒░░░░░░░░░░░░░░░░   32.98 %
-Markdown      1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-Objective-C   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C             5 hrs 49 mins   █████████████░░░░░░░░░░░░   52.21 %
+Go            3 hrs 39 mins   ████████▒░░░░░░░░░░░░░░░░   32.70 %
+Markdown      1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+Objective-C   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
