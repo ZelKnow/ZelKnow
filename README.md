@@ -36,9 +36,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C             2 hrs 16 mins   ███████████████████▓░░░░░   78.07 %
-Python        21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-Other         15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+C             1 hr 52 mins    ████████████████████▓░░░░   83.17 %
+Python        21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
