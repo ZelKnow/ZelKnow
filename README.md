@@ -36,10 +36,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go     1 hr 42 mins    █████████████████████████   99.77 %
-INI    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go       31 mins         █████████████░░░░░░░░░░░░   52.11 %
+Python   27 mins         ███████████▒░░░░░░░░░░░░░   45.89 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
