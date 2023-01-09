@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go     19 mins         ██████████████████████▒░░   88.82 %
-Text   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-INI    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Go   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
