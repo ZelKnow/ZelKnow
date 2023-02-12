@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go     17 mins         ████████████████████████▒   97.86 %
-Text   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Go     1 hr 9 mins     ████████████████████████░   95.60 %
+Bash   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
