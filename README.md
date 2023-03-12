@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go     1 hr 32 mins    ██████████████████░░░░░░░   72.17 %
-TeX    35 mins         ███████░░░░░░░░░░░░░░░░░░   27.73 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Go    1 hr 5 mins     ████████████████▒░░░░░░░░   64.85 %
+TeX   35 mins         ████████▓░░░░░░░░░░░░░░░░   35.15 %
 ```
 
 <!--END_SECTION:waka-->
