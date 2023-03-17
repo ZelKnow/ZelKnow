@@ -36,10 +36,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go         47 mins         ████████████░░░░░░░░░░░░░   48.47 %
-TeX        35 mins         █████████░░░░░░░░░░░░░░░░   36.43 %
-Text       9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-Markdown   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Go         52 mins         ███████████████████▓░░░░░   78.13 %
+Text       9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Markdown   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
 ```
 
 <!--END_SECTION:waka-->
