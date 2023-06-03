@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Go         1 hr 45 mins    ████████████████████████▓   98.92 %
 C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
