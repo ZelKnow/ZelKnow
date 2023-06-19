@@ -36,11 +36,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++        1 hr 48 mins    ██████████████░░░░░░░░░░░   55.95 %
-Go         42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
-Other      17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-Makefile   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Markdown   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
