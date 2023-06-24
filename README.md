@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++   37 mins         ██████████████▒░░░░░░░░░░   57.86 %
+C     27 mins         ██████████▓░░░░░░░░░░░░░░   42.14 %
 ```
 
 <!--END_SECTION:waka-->
