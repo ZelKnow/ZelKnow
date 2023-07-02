@@ -36,10 +36,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++           3 hrs 45 mins   █████████████████▓░░░░░░░   71.20 %
-C             1 hr 12 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
-Other         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
