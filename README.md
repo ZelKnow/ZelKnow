@@ -36,10 +36,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            1 hr 8 mins     ████████████████████████▒   97.52 %
-OpenEdge ABL   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Other          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-BST            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TeX     27 mins         ████████████████████████▒   97.31 %
+Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
