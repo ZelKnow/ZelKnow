@@ -36,8 +36,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++   36 mins         █████████████████████████   99.62 %
-TeX   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+C++        2 hrs 7 mins    ██████████████████░░░░░░░   71.64 %
+Go         36 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
+Markdown   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
