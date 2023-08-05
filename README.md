@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C             1 hr 3 mins     █████████████████████████   99.65 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
