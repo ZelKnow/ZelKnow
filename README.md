@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go    54 mins         ███████████████░░░░░░░░░░   60.50 %
-C++   35 mins         ██████████░░░░░░░░░░░░░░░   39.50 %
+Go    54 mins         █████████████████████████   99.86 %
+C++   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
