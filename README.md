@@ -36,11 +36,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     2 hrs 13 mins   ████████████████████▓░░░░   83.02 %
-TSQL       16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-Go         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Ezhil      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Go         1 hr 27 mins    █████████████████████████   99.93 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
